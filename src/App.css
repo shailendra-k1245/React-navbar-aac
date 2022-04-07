@@ -1,0 +1,30 @@
+.blueBox{
+  background-color: #D6E2EC;
+}
+.contactButton{
+ background-color: #0088A7;
+ color:white;
+ border-radius:15px;
+}
+.navbar{
+  display: flex;
+  justify-content: space-around;
+  margin:1%;
+  padding:1%;
+  background-color: #333333;
+}
+.linkDiv{
+  display: flex;
+  justify-content: space-between;
+  gap: 10%;
+  border:1px solid transparent;
+  color: white;
+}
+
+.logobakery{
+  color: white;
+  font-weight:bold;
+}
+.anchors{
+  color: white;
+}
